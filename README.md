@@ -40,6 +40,24 @@ npm install
 npm start
 ```
 
+## Screenshots
+
+### Home Page
+
+![Home](home.png)
+
+### Add Resource
+
+![Add Resource](add_resource.png)
+
+### Search Results
+
+![Search](search.png)
+
+### MongoDB Database
+
+![MongoDB](mongo.png)
+
 ## Author
 
 **Ajay Rai**
